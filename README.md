@@ -1,50 +1,44 @@
-# Welcome to your Expo app 👋
+# Simple-Calculator
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A clean and minimal calculator built with React Native. This app performs basic arithmetic operations addition, subtraction, multiplication, and division with a responsive UI that works across both Android and iOS devices.
 
-## Get started
+## Features
 
-1. Install dependencies
+- Basic arithmetic operations: addition, subtraction, multiplication, and division.
+- User-friendly interface.
+- Cross-platform support (iOS and Android).
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Chamindu-Gayanuka/Simple-Calculator.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Simple-Calculator
+   ```
+3. Install dependencies:
    ```bash
    npm install
    ```
 
-2. Start the app
+## Usage
 
+1. Start the development server:
    ```bash
-    npx expo start
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## Screenshots
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<img src="Screenshots/image1.png" alt="Calculator Screenshot 1" width="30%" />
+<img src="Screenshots/image2.png" alt="Calculator Screenshot 2" width="30%" />
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Contributing
 
-## Get a fresh project
+Contributions are welcome! Please open an issue or submit a pull request.
 
-When you're ready, run:
+## License
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+This project is licensed under the [MIT License](LICENSE).
