@@ -32,8 +32,10 @@ A clean and minimal calculator built with React Native. This app performs basic 
 
 ## Screenshots
 
-<img src="Screenshots/image1.png" alt="Calculator Screenshot 1" width="30%" />
-<img src="Screenshots/image2.png" alt="Calculator Screenshot 2" width="30%" />
+<div align = 'center'>
+   <img src="Screenshots/image1.png" alt="Calculator Screenshot 1" width="30%" />
+   <img src="Screenshots/image2.png" alt="Calculator Screenshot 2" width="30%" />
+</div>
 
 ## Contributing
 
